@@ -57,9 +57,6 @@ $ nano .ssh/config
 
 Add the following lines inside the config
 
-```sh
-$ nano .ssh/config
-```
 
 ```sh
 Host mlops-zoomcamp
