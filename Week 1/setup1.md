@@ -17,12 +17,15 @@ https://www.youtube.com/watch?v=IXSiYkP23zo&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhE
 ```sh
  $ ssh -i /Users/user_name/.ssh/key.pem ubuntu@13.127.221.83
 ```
+
+Here ,
+```sh
 key.pem       --> Your Key name
 
 ubuntu        --> user name
 
 13.127.221.83 --> Public IPv4 address
-
+```
 
 
 **If you get error like below:**
