@@ -30,9 +30,10 @@ ubuntu        --> user name
 
 
 **If you get error like below:**
-
+```sh
 Warning: Identity file /Users/user_name/.ssh/key.pem not accessible: No such file or directory.
 ubuntu@13.127.221.83: Permission denied (publickey).
+```
 
 Follow the below steps:
 
