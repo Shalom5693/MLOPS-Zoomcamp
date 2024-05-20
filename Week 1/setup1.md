@@ -36,6 +36,12 @@ Follow the below steps:
 $ chmod 400 /Users/user_name/.ssh/key.pem
 ```
 
+Now we will be able to run 
+
+```sh
+ $ ssh -i /Users/user_name/.ssh/key.pem ubuntu@13.127.221.83
+```
+
 ### [Optional] Give alias to host
 
 ```sh
