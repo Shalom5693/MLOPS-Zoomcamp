@@ -3,11 +3,13 @@
 
 ## ⚙ Environment Setup 
 
+
 ### 1. Create EC2 Instances
 
 https://www.youtube.com/watch?v=IXSiYkP23zo&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK 
 
 ### 2. Connect Local Machine(MAC) to EC2 Instances
+
 #### Given that we Created the Key Pair and downloaded into our machine, following are the steps to connect to EC2 Instance from Local Machine
 
 **To Connect to Ec2 Instances:**
