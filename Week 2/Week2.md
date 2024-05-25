@@ -34,3 +34,42 @@ Process of tracking all the information related to a ML experiment,which include
 
 6️⃣ Metrics
 
+<img width="372" alt="image" src="https://github.com/Shalom5693/MLOPS-Zoomcamp/assets/46680291/585eb16c-d7aa-453c-a78c-967c4e701a14">
+
+An open source platform for ML Life cycle
+It contains four Modules:
+
+1.Tracking
+
+2.Models
+
+3.Model Registry
+
+4.Projects
+
+### ML Flow helps to organize your experiments into runs and help tracking
+
+1️⃣ Parameters
+
+2️⃣ Metrics
+
+3️⃣ Meta data
+
+4️⃣ Model
+
+5️⃣ Artifacts
+
+### Also it tracks the below:
+
+1️⃣ Source Code
+
+2️⃣ Author Name
+
+3️⃣ Time Taken
+
+4️⃣ Version of the Code (GIT Commit)
+
+
+
+
+
