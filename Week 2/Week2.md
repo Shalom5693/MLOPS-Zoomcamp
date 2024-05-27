@@ -70,6 +70,8 @@ It contains four Modules:
 4️⃣ Version of the Code (GIT Commit)
 
 
+<img width="1282" alt="image" src="https://github.com/Shalom5693/MLOPS-Zoomcamp/assets/46680291/96ce2b18-7047-4dcf-b710-a390c7527615">
+
 
 
 
